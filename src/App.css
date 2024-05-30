@@ -1,5 +1,14 @@
+.app__bg {
+  background: rgba(19, 21, 24, 1);
+}
 .App {
-  text-align: center;
+  width: 100%;
+  height: 100vh;
+}
+.flex__center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .App-logo {
